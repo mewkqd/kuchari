@@ -1,0 +1,22 @@
+body {
+    background-image: none;
+    background-color: black;
+  }
+body, p,  h1, h2, h3, title {
+    color: white;
+  }
+.element {
+    font-size: 3rem;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+  }
+
+body {
+    font-family: "Open Sans", Arial, sans-serif; 
+  }
+  
+  p {
+    font-family: Georgia, serif; 
+  }
+
